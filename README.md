@@ -1,2 +1,2 @@
 # theblackspot
-Wallet et plugin de paiement LIBRA
+Wallet et plugin de paiement DIEM
